@@ -1,0 +1,23 @@
+
+-Home
+    - Login
+    - Register
+
+- admin dashboard
+    - Add User
+    - Add School
+
+- School Admin Dashboard
+    - CRUD Standards(Year/Semester)
+    - Manage Syllabus
+    - Manage Teacher
+        - CRUD Teacher
+        - Assign Subjects
+
+- Teacher Dashboard
+    - View Standards
+        - View Subjects
+
+    - Take Attedence
+
+- Student Dashboard
